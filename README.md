@@ -1,12 +1,11 @@
 # Efficient ECommerce
-A Back-End application that makes E-Commerce as Efficient as possible.
+A Back-End application that makes maintaining an E-Commerce database as Efficient as possible.
 ## Description
-Efficient ECommerce is
-
-
-Purely Brad Portfolio allows users to explore the Professional Accomplishments and Skills of a passionate web developer named Brad Burr. My Portfolio showcases a diverse range of projects that displays my creativity as well as my approach to solve problems. I am committed to enhancing my technical skills and expertise by constantly challenging myself to improve daily. Please feel free to browse my webpage and leave comments about your impressions.
+Efficient ECommerce is a useful tool that allows the user to view all of the Products, Categories and Tags inside of a Postgres Database. Not only can the user view all of the information in these three tables, it provides the functionality to do Much More! Users can add new Products, Categories and Tags to the database. Updating the values in these three table is also very easy using Efficient ECommerce. Lastly, if the user finds that he/she needs to Delete a Product, Category or Tag, the Efficient ECommerce application allows for that as well.
 <br/>
-<img src="./assets/images/webpage.png" alt="Purely Brad Portfolio image"/>
+<img src="./assets/images/webpage.png" alt="Efficient ECommerce image"/>
+<br/>
+Click <a href="https://drive.google.com/file/d/1K_jXpI39qLctbhLen03-dyzVzCjrWZit/view" target="_blank">here</a> to view the walk-through video of Efficient ECommerce.</p>
 <br/>
 ## Table of Contents
 1. [Installation](#installation)
@@ -19,6 +18,7 @@ Purely Brad Portfolio allows users to explore the Professional Accomplishments a
 <a id="installation"></a>
 ## Installation
 npm install
+npm run seed
 <a id="usage"></a>
 ## Usage
 This repository is Public and can be used by anyone.
@@ -27,7 +27,7 @@ This repository is Public and can be used by anyone.
 This project is not currently licensed.
 <a id="contributing"></a>
 ## Contributing
-Please email me with any comments and suggestions about Purely Brad Portfolio.
+Please email me with any comments and suggestions about Efficient ECommerce.
 <a id="tests"></a>
 ## Tests
 npm run test

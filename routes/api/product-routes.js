@@ -56,6 +56,7 @@ router.post('/', (req, res) => {
 });
 
 // Update Product
+// NOT WORKING
 router.put('/:id', (req, res) => {
   // update product data
   Product.update(req.body, {
