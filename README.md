@@ -5,7 +5,7 @@ Efficient ECommerce is a useful tool that allows the user to view all of the Pro
 <br/>
 <img src="./assets/images/webpage.png" alt="Efficient ECommerce image"/>
 <br/>
-Click <a href="https://drive.google.com/file/d/1K_jXpI39qLctbhLen03-dyzVzCjrWZit/view" target="_blank">here</a> to view the walk-through video of Efficient ECommerce.</p>
+Click <a href="https://drive.google.com/file/d/15a8bDGHoqQpV6CecbwsptvAQ-AgdvcNE/view" target="_blank">here</a> to view the walk-through video of Efficient ECommerce.</p>
 <br/>
 ## Table of Contents
 1. [Installation](#installation)
